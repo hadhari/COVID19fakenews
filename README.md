@@ -1,1 +1,1 @@
-# COVID19fakenews
+# COVID19 Fake News Prediction
